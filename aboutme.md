@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 关于我
+subtitle: 教育家、软件工程师、发明家、创业家、父亲
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+我是可文老师。我是一个不寻常的老师。跟一般老师的经历有很大的不同。我在自己的人生里，经历了很多成功与失败。在这些经历中，有快乐也有悲伤。我到过很多歌国家，见过和认识很多人，吃过很多好吃的东西。
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+当了十多年的老师加上我的人生经验，我想通过这个平台，指引往往迷茫的高中生，让你们看得见自己更美好的未来。
 
-What else do you need?
+### 我的经历
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+有时间再补上。

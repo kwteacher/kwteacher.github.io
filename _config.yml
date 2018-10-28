@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: 问问可文老师\nYour High School Mentor
+title: 问问可文老师
 
 # Short description of your site
 description: 给高中生更好的明天
@@ -23,7 +23,7 @@ description: 给高中生更好的明天
 
 # List of links in the navigation bar
 navbar-links:
-  关于我\nAbout Me: "aboutme"
+  关于我: "aboutme"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
